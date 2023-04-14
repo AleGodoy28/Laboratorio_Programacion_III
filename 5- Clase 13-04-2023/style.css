@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.punto{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin: 2px;
+
+}
+.dado1{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.dado2{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.dado3{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.dado4{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.dado5{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.dado6{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
